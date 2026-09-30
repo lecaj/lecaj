@@ -1,7 +1,7 @@
 <div align="center">
 
-### AI-Native Builder
-*building tools by directing AI agents: Hermes, Claude Code, Paperclip*
+### Building with AI agents. Learning to code the fundamentals.
+*Civil engineer turned developer · Bremen*
 
 [![GitHub](https://img.shields.io/badge/@lecaj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lecaj)
 [![Bremen](https://img.shields.io/badge/Bremen-DE-000000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
