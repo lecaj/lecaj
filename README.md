@@ -3,11 +3,8 @@
 ### Building with AI agents. Learning to code the fundamentals.
 *Civil engineer turned developer · Bremen*
 
-[![GitHub](https://img.shields.io/badge/@lecaj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lecaj)
-[![Bremen](https://img.shields.io/badge/Bremen-DE-000000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-lectura-6ab579189/)
 [![Open to](https://img.shields.io/badge/Open_to-Ausbildung_2026%2F27-4EAA25?style=for-the-badge)](#-what-im-looking-for)
-
-![Profile Views](https://komarev.com/ghpvc/?username=lecaj&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -68,6 +65,7 @@ Some of my automations are live and in daily use: inventory, payroll, and a Tele
 - **B.Sc. Civil Engineering (Bauingenieurwesen)**: my way into software
 - **AI Automation**: workflows in daily use for inventory, payroll, and bot forwarding
 - **Self-taught**: I build with AI agents and am learning Python fundamentals
+- **Open source**: first pull requests to [Hermes Agent](https://github.com/NousResearch/hermes-agent) and [Paperclip](https://github.com/paperclipai/paperclip), the tools I use daily
 - **Languages**: English (native) · Filipino (native) · Deutsch (B2)
 
 ---
