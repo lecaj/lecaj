@@ -28,12 +28,13 @@ I build software by working with AI agents. I decide what to build, break it int
 
 I come from civil engineering (B.Sc.), not a CS degree. I'm learning Python fundamentals so I understand the code I ship, not just the result.
 
-Some of my automations are live and in daily use: inventory, payroll, and a Telegram–Discord forwarding bot. Most of my other projects are experiments or still in progress.
+I co-founded **ZeroFive Club**, a business in the Philippines, and run its operations remotely from Bremen. The AI-assisted systems I set up there handle purchasing, receiving, inventory, payroll support, cash reconciliation, tax-compliance reminders, and management reports. I'm now building our own POS and inventory system with AI agents, still in progress.
+
+Outside ZeroFive, I build smaller tools and bots, mostly experiments and some still in progress.
 
 **Current Focus:**
+- ZeroFive operations: keeping the workflows reliable, building the POS/inventory system
 - multi-agent dev workflows: Hermes Agent + Claude Code + Paperclip
-- automation and bots that run 24/7
-- on-chain and data tooling (dashboards, verification scripts)
 - Python fundamentals
 - a few projects going public once they're ready
 
@@ -62,8 +63,9 @@ Some of my automations are live and in daily use: inventory, payroll, and a Tele
 
 ## 📊 Background
 
+- **Co-Founder @ ZeroFive Club Corp** (since 2024): strategy, partnerships, operations
+- **Director & AI Operations Systems Lead @ ZeroFive** (since 2026): AI-assisted workflows for purchasing, inventory, payroll, reconciliation, reporting
 - **B.Sc. Civil Engineering (Bauingenieurwesen)**: my way into software
-- **AI Automation**: workflows in daily use for inventory, payroll, and bot forwarding
 - **Self-taught**: I build with AI agents and am learning Python fundamentals
 - **Open source**: first pull requests to [Hermes Agent](https://github.com/NousResearch/hermes-agent) and [Paperclip](https://github.com/paperclipai/paperclip), the tools I use daily
 - **Languages**: English (native) · Filipino (native) · Deutsch (B2)
@@ -78,7 +80,7 @@ Some of my automations are live and in daily use: inventory, payroll, and a Tele
 
 <div align="center">
 
-*Quereinsteiger mit B.Sc. Bauingenieurwesen. Ich entwickle Software mit KI-Agenten, erste Workflows laufen bereits im Alltag.<br/>
+*Quereinsteiger mit B.Sc. Bauingenieurwesen und Mitgründer der ZeroFive Club Corp, deren Abläufe ich mit KI-gestützten Workflows betreibe.<br/>
 Ich suche eine Ausbildung zum Fachinformatiker für Anwendungsentwicklung in Bremen.*
 
 </div>
