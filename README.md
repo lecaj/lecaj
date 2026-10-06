@@ -74,7 +74,7 @@ Outside ZeroFive, I build smaller tools and bots, mostly experiments and some st
 
 ## 🎯 What I'm Looking For
 
-**Ausbildung als Fachinformatiker für Anwendungsentwicklung**, starting 2026/2027 in Bremen or nearby.
+**Ausbildung als Fachinformatiker für Systemintegration**, starting 2026/2027 in Bremen or nearby.
 
 ---
 
